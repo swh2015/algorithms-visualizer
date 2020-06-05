@@ -1,6 +1,4 @@
-# algorithms-visualizer
 
-# pomodoro
 ## JavaScript Sorting Algorithm Visualizer
 https://win-han.github.io/algorithms-visualizer/
 
